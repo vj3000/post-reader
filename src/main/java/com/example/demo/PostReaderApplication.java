@@ -15,7 +15,7 @@ import java.nio.charset.Charset;
 @SpringBootApplication
 @RestController
 /**
- * Application that reads posts from jsonplaceholder.typicode.com/posts
+ * Application that present an API for reading posts from jsonplaceholder.typicode.com/posts
  */
 public class PostReaderApplication {
 
